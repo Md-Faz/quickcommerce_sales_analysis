@@ -26,7 +26,8 @@ File: `README.md` Project overview and documentation
 ---
 
 ## Dashboard Highlights<
-                         <img width="533" alt="Screenshot 2025-04-19 010026" src="https://github.com/user-attachments/assets/838c7cf5-2843-4b75-a7be-05db4fc58346" />
+                         
+<img width="533" alt="Screenshot 2025-04-19 010026" src="https://github.com/user-attachments/assets/838c7cf5-2843-4b75-a7be-05db4fc58346" />
 
 
 ---
